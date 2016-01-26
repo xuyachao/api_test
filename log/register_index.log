@@ -1,82 +1,0 @@
-THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 13:01:50THING LOG: user= 2016-1-26 13:01:50THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 13:01:55THING LOG: user= 2016-1-26 13:01:55THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 13:01:13THING LOG: user= 2016-1-26 13:01:13THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 13:01:49THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 13:01:55THING LOG: user= 2016-1-26 13:01:55THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 13:01:23THING LOG: user= 2016-1-26 13:01:23THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 14:01:15THING LOG: user= 2016-1-26 14:01:15THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 14:01:25THING LOG: user= 2016-1-26 14:01:25THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 14:01:00THING LOG: user= 2016-1-26 14:01:00THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 14:01:09THING LOG: user= 2016-1-26 14:01:09THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 14:01:26THING LOG: user= 2016-1-26 14:01:26THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 14:01:13THING LOG: user= 2016-1-26 14:01:13THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 14:01:00THING LOG: user= 2016-1-26 14:01:00THING LOG: name=xiaoming | email=xiaoming@test.com | password=123456 2016-1-26 14:01:32THING LOG: name=xiaoming | email=xiaomin@test.com | password=123456 2016-1-26 14:01:23THING LOG: user= 2016-1-26 14:01:23THING LOG: name=xiaoming | email=xiaomin@test.com | password=123456 2016-1-26 14:01:22THING LOG: name=xiaoming | email=xiaomi@test.com | password=123456 2016-1-26 14:01:57THING LOG: user= 2016-1-26 14:01:57THING LOG: name=xiaoming | email=xiaomi@test.com | password=123456 2016-1-26 14:01:33THING LOG: name=xiaoming | email=xiaom@test.com | password=123456 2016-1-26 14:01:53THING LOG: user=Array 2016-1-26 14:01:53THING LOG: name=xiaoming | email=xiaom@test.com | password=123456 2016-1-26 14:01:26THING LOG: name=xiaoming | email=xiao@test.com | password=123456 2016-1-26 14:01:41THING LOG: user= 2016-1-26 14:01:41THING LOG: name=xiaoming | email=xiao@test.com | password=123456 2016-1-26 14:01:26THING LOG: name=xiaoming | email=xiao@test.com | password=123456 2016-1-26 14:01:26THING LOG: name=xiaoming | email=xia@test.com | password=123456 2016-1-26 14:01:36THING LOG: user=Array 2016-1-26 14:01:36THING LOG: user= 2016-1-26 14:01:36THING LOG: name=xiaoming | email=xia@test.com | password=123456 2016-1-26 14:01:02THING LOG: name=xiaoming | email=xi@test.com | password=123456 2016-1-26 14:01:13THING LOG: user=Array 2016-1-26 14:01:13THING LOG: user=array (
-  0 => '66',
-  'uid' => '66',
-  1 => '56a71491201f34.65987913',
-  'unique_id' => '56a71491201f34.65987913',
-  2 => 'xiaoming',
-  'name' => 'xiaoming',
-  3 => 'xi@test.com',
-  'email' => 'xi@test.com',
-  4 => 'eiIFwkv82LcGKqHrdnyhjK+mmHY0NTg4MDIzODg4',
-  'encrypted_password' => 'eiIFwkv82LcGKqHrdnyhjK+mmHY0NTg4MDIzODg4',
-  5 => '4588023888',
-  'salt' => '4588023888',
-  6 => '2016-01-26 ',
-  'created_at' => '2016-01-26 ',
-) 2016-1-26 14:01:13THING LOG: name=xiaoming | email=xi@test.com | password=123456 2016-1-26 14:01:35THING LOG: name=xiaoming | email=x@test.com | password=123456 2016-1-26 14:01:44THING LOG: user=Array 2016-1-26 14:01:44THING LOG: user=Array
-(
-    [0] => 67
-    [uid] => 67
-    [1] => 56a714ec32f8c4.92436960
-    [unique_id] => 56a714ec32f8c4.92436960
-    [2] => xiaoming
-    [name] => xiaoming
-    [3] => x@test.com
-    [email] => x@test.com
-    [4] => r+bSXcnQj802S11/NmQsveqeF4QwMmM5NjZkNTUx
-    [encrypted_password] => r+bSXcnQj802S11/NmQsveqeF4QwMmM5NjZkNTUx
-    [5] => 02c966d551
-    [salt] => 02c966d551
-    [6] => 2016-01-26 
-    [created_at] => 2016-01-26 
-)
- 2016-1-26 14:01:44THING LOG: name=xiaoming | email=x1@test.com | password=123456 2016-1-26 14:01:33THING LOG: user=Array 2016-1-26 14:01:33THING LOG: user=1 2016-1-26 14:01:33THING LOG: name=xiaoming | email=x1@test.com | password=123456 2016-1-26 14:01:13THING LOG: name=xiaoming | email=x12@test.com | password=123456 2016-1-26 14:01:28THING LOG: user=Array 2016-1-26 14:01:28THING LOG: user=array (
-  0 => '69',
-  'uid' => '69',
-  1 => '56a7160876e802.80070966',
-  'unique_id' => '56a7160876e802.80070966',
-  2 => 'xiaoming',
-  'name' => 'xiaoming',
-  3 => 'x12@test.com',
-  'email' => 'x12@test.com',
-  4 => 'K88zmJipliRbJAE5noFGUbb0PuJlNjEwNTI2Mzk2',
-  'encrypted_password' => 'K88zmJipliRbJAE5noFGUbb0PuJlNjEwNTI2Mzk2',
-  5 => 'e610526396',
-  'salt' => 'e610526396',
-  6 => '2016-01-26 ',
-  'created_at' => '2016-01-26 ',
-) 2016-1-26 14:01:28THING LOG: name=xiaoming | email=x123@test.com | password=123456 2016-1-26 14:01:10THING LOG: user=Array 2016-1-26 14:01:10THING LOG: user=array (
-  0 => '70',
-  'uid' => '70',
-  1 => '56a7166e693174.14266811',
-  'unique_id' => '56a7166e693174.14266811',
-  2 => 'xiaoming',
-  'name' => 'xiaoming',
-  3 => 'x123@test.com',
-  'email' => 'x123@test.com',
-  4 => 'PY0einfR8EPaMLc4UWAnvCf5KNM3YmZmMTQ2ODVm',
-  'encrypted_password' => 'PY0einfR8EPaMLc4UWAnvCf5KNM3YmZmMTQ2ODVm',
-  5 => '7bff14685f',
-  'salt' => '7bff14685f',
-  6 => '2016-01-26 ',
-  'created_at' => '2016-01-26 ',
-  7 => NULL,
-  'updated_at' => NULL,
-) 2016-1-26 14:01:10THING LOG: name=xiaoming | email=x123@test.com | password=123456 2016-1-26 14:01:28THING LOG: name=xiaoming | email=x1233@test.com | password=123456 2016-1-26 14:01:38THING LOG: user=Array 2016-1-26 14:01:38THING LOG: user=array (
-  0 => '71',
-  'uid' => '71',
-  1 => '56a7168a418af2.61542418',
-  'unique_id' => '56a7168a418af2.61542418',
-  2 => 'xiaoming',
-  'name' => 'xiaoming',
-  3 => 'x1233@test.com',
-  'email' => 'x1233@test.com',
-  4 => 'mubLyGfM7Df/fyVk168o8JSXQCk3Zjk4ZGYyNDA2',
-  'encrypted_password' => 'mubLyGfM7Df/fyVk168o8JSXQCk3Zjk4ZGYyNDA2',
-  5 => '7f98df2406',
-  'salt' => '7f98df2406',
-  6 => '2016-01-26 ',
-  'created_at' => '2016-01-26 ',
-  7 => NULL,
-  'updated_at' => NULL,
-) 2016-1-26 14:01:38

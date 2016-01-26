@@ -1,6 +1,4 @@
 <?php
-
-
 if (isset($_POST['tag']) && $_POST['tag'] != '') {
     // tag是接口请求时post的值（方法名称），用来区别调用方法
     $tag = $_POST['tag'];
