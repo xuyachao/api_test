@@ -361,6 +361,7 @@ class RedisCluster
 	}
 } // End Class
 
+/*
 // ================ TEST DEMO ===================
 // 只有一台Redis的应用
 $redis = new RedisCluster();
@@ -394,6 +395,8 @@ if (empty($phone_list))
 	}
 }
 print_r($phone_list);
+*/
+
 /*
 $list = $redis->hget($cron_list,);
 var_dump($list);
